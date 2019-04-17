@@ -1,0 +1,35 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: rgba(65, 69, 73);
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6{
+  color: rgba(255,82,82,0.87);
+  font-weight: 900;
+}
+
+.m-nav{
+  list-style-type: none;
+}
+a, a:visited{
+  color: rgba(255,82,82,0.87);
+}
+a:hover, a:active{
+  color: rgba(211, 67, 67, 0.87);
+  text-decoration: none;
+}
+
+.page-heading{
+  font-size: 3em;
+  font-weight: 900;
+  margin: 20px 20px 20px 10%;
+}
+
+.back-btn{
+  float: right;
+}
+
+.page-content{
+  padding: 0;
+}

@@ -1,0 +1,19 @@
+items:
+
+- title: About
+  url: /about/
+
+- title: Blog
+  url: /blog/
+
+- title: Google Scholar
+  url: 404.html
+
+- title: Academia
+  url: 404.html
+
+- title: Curriculum Vitae
+  url: 404.html
+
+- title: Email
+  url: 404.html
