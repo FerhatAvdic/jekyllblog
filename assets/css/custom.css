@@ -80,3 +80,21 @@ a:hover, a:active{
 .p-author{
     color: var(--text-red);
 }
+
+footer{
+  margin-top: 30px;
+}
+
+.footer-nav{
+  text-align: center;
+}
+.footer-nav a{
+  font-size: 14px;
+  color: var(--text-black);
+}
+.footer-nav>li{
+  display:inline-block;
+}
+.footer-nav>li:not(:first-child):before{
+  content: " | "
+}
