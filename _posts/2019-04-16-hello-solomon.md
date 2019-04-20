@@ -2,9 +2,8 @@
 layout: post
 title:  "Hello Solomon"
 date:   2019-04-16
+author: Mugabi Mwanje
 ---
-
-# Hello Solomon
 
 ## Et humo truncoque et iuvencum
 

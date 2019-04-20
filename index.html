@@ -6,7 +6,9 @@ layout: default
 
   <ul class="m-nav">
     {% for item in site.data.navigation.items %}
-    <li><h1><a href="{{ item.url }}">{{ item.title }}</a></h1></li>
+    <li>
+      <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+    </li>
     {% endfor %}
   </ul>
 

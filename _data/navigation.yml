@@ -3,6 +3,9 @@ items:
 - title: About
   url: /about/
 
+- title: Now
+  url: /now/
+
 - title: Blog
   url: /blog/
 
@@ -10,9 +13,6 @@ items:
   url: 404.html
 
 - title: Academia
-  url: 404.html
-
-- title: Curriculum Vitae
   url: 404.html
 
 - title: Email

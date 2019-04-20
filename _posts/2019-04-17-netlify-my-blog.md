@@ -2,6 +2,7 @@
 layout: post
 title:  "Netlify my Blog"
 date:   2019-04-14
+author: Mugabi Mwanje
 ---
 
 # Pendet oblivia

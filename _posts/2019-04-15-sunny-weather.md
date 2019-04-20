@@ -2,6 +2,7 @@
 layout: post
 title:  "Sunny Weather"
 date:   2019-04-15
+author: Mugabi Mwanje
 ---
 
 # Agnovique simul attonitoque lumina amplexus sententia proicit
