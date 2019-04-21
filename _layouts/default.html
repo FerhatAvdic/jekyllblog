@@ -11,7 +11,9 @@
             <h1 class="page-heading"><a href="/">{{ site.title }}</a></h1>
             {{ content }}
           </main>
-          <!-- {% include footer.html %} -->
+          {% if page.title != 'home' %}
+            {% include footer.html %}
+          {% endif %}
         </div>
       </div>
     </div>

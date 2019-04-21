@@ -1,6 +1,6 @@
 :root {
   --text-red: rgba(255,82,82,0.87);
-  --text-red-dark: rgba(211, 67, 67, 0.87);
+  --text-red-dark: rgba(187, 42, 42, 0.87);
   --text-black: rgba(65, 69, 73);
 }
 @font-face {
@@ -18,18 +18,22 @@
     font-style: normal;
 }
 
-.font-light{
-  font-weight: 200;
-}
 
 body {
-  font-family: 'nunito_sansregular';
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 300;
   color: var(--text-black);
+  font-size: 18px;
+}
+main{
+  padding: 15px 0;
 }
 
-h1, h2, h3, h4, h5, h6{
-  font-family: 'nunito_sansbold';
-  color: var(--text-red);
+h1, h2, h3, h4, h5, h6, .post-list{
+  font-family: 'Nunito Sans', sans-serif;
+ /* font-family: 'Ramabhadra', sans-serif; */
+ color: var(--text-red);
+ font-weight: 400;
 }
 
 .m-nav{
@@ -45,17 +49,17 @@ a:hover, a:active{
 }
 
 .page-heading{
-  font-size: 3em;
-  font-weight: 900;
+  font-size: calc(36px + 1.1vw);
+  font-weight: 400;
   margin-bottom: 80px;
-  margin-top: 15px;
 }
 .page-heading a{
-  color: var(--text-black);
+  color: var(--text-red-dark);
 }
 
 .nav-back{
   margin-bottom: 15px;
+  margin-top: -40px;
 }
 
 .page-content{
@@ -68,7 +72,6 @@ a:hover, a:active{
 .post-list{
   list-style-type: disc;
   list-style-position: inside;
-  font-family: 'nunito_sansbold';
   font-size: 24px;
   color: var(--text-red);
   margin-bottom: 60px;
@@ -82,11 +85,14 @@ a:hover, a:active{
 }
 
 footer{
-  margin-top: 30px;
+  padding-top:15px;
+  border-top: 1px solid var(--text-black);
+  margin-bottom: 15px;
 }
 
 .footer-nav{
   text-align: center;
+  margin: 0;
 }
 .footer-nav a{
   font-size: 14px;
@@ -96,5 +102,5 @@ footer{
   display:inline-block;
 }
 .footer-nav>li:not(:first-child):before{
-  content: " | "
+  content: " \2022 "
 }
