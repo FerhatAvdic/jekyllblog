@@ -1,6 +1,6 @@
 :root {
-  --text-red: rgba(255,82,82,0.87);
-  --text-red-dark: rgba(187, 42, 42, 0.87);
+  --text-red: rgba(238, 55, 55, 0.87);
+  --text-red-dark: rgba(170, 32, 32, 0.87);
   --text-black: rgba(65, 69, 73);
 }
 @font-face {
