@@ -8,7 +8,7 @@ title: home
   <ul class="m-nav">
     {% for item in site.data.navigation.items %}
     <li>
-      <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+      <h3><a href="{{ item.url }}" {% if item.newtab %}target="_blank"{% endif %}>{{ item.title }}</a></h3>
     </li>
     {% endfor %}
   </ul>

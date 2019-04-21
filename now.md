@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Now
+title: What I am Doing Now
 permalink: /now/
 ---
-
-### Now Page
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
 standard

@@ -3,7 +3,7 @@ items:
 - title: About
   url: /about/
 
-- title: Now
+- title: What I am Doing Now
   url: /now/
 
 - title: Blog
@@ -17,3 +17,4 @@ items:
 
 - title: Email
   url: mailto:mugabimwanje@gmail.com
+  newtab: true
