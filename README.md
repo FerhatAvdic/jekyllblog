@@ -14,7 +14,7 @@ The changes will be pushed and applied on netlify server.
 
 * Jekyll is convention-based so the post names appear in the following format: __YYYY:MM:DD-post-title-in-lowercase__
 The generator also uses something called _front matter_ which looks like the code from below in your markdown files.
-You should use this as a template for your future posts so this data is automatically added to them. 
+You should use this as a template for your future posts so this data is automatically added to them. See post examples in the _posts folder.
 Add this front matter to the top of each post:
 
 ```
