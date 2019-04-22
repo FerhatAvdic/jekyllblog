@@ -28,6 +28,7 @@ author: Mugabi Mwanje
 
 * To see how to format text using this language, refer to the guides on https://www.markdownguide.org
 It includes a cheatsheet, basic and extended syntax. 
+You can make use of free online tools like https://stackedit.io to write your markdown files using their editor, then copy the text to your file in the github repository.
 To style the content in any other ways you can always use HTML and inline CSS.
 For example, center and resize an image:
 
