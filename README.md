@@ -4,7 +4,7 @@ This site is made using Jekyll, a simple, blog-aware, static site generator for 
 
 The content is editable through Markdown files (files with .md extension).
 
->_A MARKDOWN file is a text file created using one of several possible dialects of the Markdown language. It uses plain text formatting but contains inline text symbols that specify how to format the text (e.g., double asterisk wrapped text to make it bold, or other markups for italics, indentation, headers, etc.)._
+>_A MARKDOWN file is a text file created using one of several possible dialects of the Markdown language. It uses plain text formatting but contains inline text symbols that specify how to format the text (e.g., double asterisk before and after the text to make it bold, or other markups for italics, indentation, headers, etc.)._
 
 ## How can i manage blog posts on my site?
 
