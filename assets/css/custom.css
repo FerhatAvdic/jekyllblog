@@ -84,13 +84,14 @@ a:hover, a:active{
     color: var(--text-red);
 }
 
-footer{
-  padding-top:15px;
+
+.footer-content{
   border-top: 1px solid var(--text-black);
+  font-size: 12px;
+  padding-top:15px;
   margin-bottom: 15px;
 }
-
-.footer-nav{
+/* .footer-nav{
   text-align: center;
   margin: 0;
 }
@@ -103,4 +104,4 @@ footer{
 }
 .footer-nav>li:not(:first-child):before{
   content: " \2022 "
-}
+} */
