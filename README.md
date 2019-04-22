@@ -20,7 +20,8 @@ layout: post
 title:  "Markdown is awesome"
 date:   2019-04-14
 author: Mugabi Mwanje
----```
+---
+```
 
 You should use this as a template for your future posts so this data is automatically added to them.
 
