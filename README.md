@@ -13,7 +13,8 @@ When you're done with the changes, you will be asked to commit them. Do so by cl
 The changes will be pushed and applied on netlify server.
 
 * Jekyll is convention-based so the post names appear in the following format: __YYYY:MM:DD-post-title-in-lowercase__
-The generator also used something called _front matter_ which looks like this in your markdown files:
+The generator also used something called _front matter_ which looks like the code from below in your markdown files.
+You should use this as a template for your future posts so this data is automatically added to them.
 
 ```
 ---
@@ -23,8 +24,6 @@ date:   2019-04-14
 author: Mugabi Mwanje
 ---
 ```
-
-You should use this as a template for your future posts so this data is automatically added to them.
 
 * To see how to format text using this language, refer to the guides on https://www.markdownguide.org
 It includes a cheatsheet, basic and extended syntax. 
