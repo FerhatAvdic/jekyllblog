@@ -15,7 +15,8 @@ The changes will be pushed and applied on netlify server.
 * Jekyll is convention-based so the post names appear in the following format: __YYYY:MM:DD-post-title-in-lowercase__
 The generator also used something called _front matter_ which looks like this in your markdown files:
 
-```---
+```
+---
 layout: post
 title:  "Markdown is awesome"
 date:   2019-04-14
@@ -30,7 +31,8 @@ It includes a cheatsheet, basic and extended syntax.
 To style the content in any other ways you can always use HTML and inline CSS.
 For example, center and resize an image:
 
-```<p align="center">
+```
+<p align="center">
   <img src="https://anyserver.com/image.png" width="750px" height="300px"/>
 </p>
 ```
